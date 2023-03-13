@@ -1,9 +1,7 @@
 </br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=200&section=header&text=Welcome!&fontSize=90" />
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=200&section=header&text=&fontSize=90" />
   
   <h3>📚 Tech Stack 📚</h3>
 
